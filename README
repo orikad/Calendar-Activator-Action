@@ -1,2 +1,7 @@
+Add calendar event with an Activator action. An uninteresting tweak
+with somewhat interesting technicality since Activator actions must
+live in SpringBoard but also it needs to talk to the calendar app and
+hook that.
+
 for a compiled form of this Activator action add http://orikad.com/repo to Cydia.
 To compile this use Theos http://iphonedevwiki.net/index.php/Theos/Getting_Started
