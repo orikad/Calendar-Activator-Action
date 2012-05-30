@@ -1,0 +1,9 @@
+Package: com.orikad.calendaractivator
+Name: Calendar Activator Action
+Depends: mobilesubstrate, libactivator
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add calendar event with Activator
+Maintainer: Ori Kadosh
+Author: Ori Kadosh
+Section: Tweaks

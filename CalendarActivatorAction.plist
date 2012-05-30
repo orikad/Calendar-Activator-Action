@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.mobilecal",
+			"com.apple.springboard",
+		);
+	};
+}

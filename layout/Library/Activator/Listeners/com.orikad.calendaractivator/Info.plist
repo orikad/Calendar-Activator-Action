@@ -1,0 +1,9 @@
+{
+	title = "Add Calendar Event";
+	description = "Add new calendar event";
+	"compatible-modes" = (
+		springboard,
+		lockscreen,
+		application,
+	);
+}
